@@ -9,7 +9,7 @@ This project provides a production-ready Nginx configuration with:
 
 installation
 1. Clone the repository:
-    git clone https://github.com/yourusername/nginx-advanced-config.git
+    git clone https://github.com/Fubekgkg/nginx-advanced-config.git
     cd nginx-advanced-config
    
 2️. Run the setup script:
